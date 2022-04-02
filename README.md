@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+AmirHossein+Ahmadi!%F0%9F%A4%98%F0%9F%8F%BF" width="70%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+AmirHossein+Ahmadi!%F0%9F%A4%98%F0%9F%8F%BF" width="700"></a>
 </p>
 
 <!-- Social icons section -->
@@ -13,12 +13,12 @@
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-  <a href="https://github.com/meliiwamd/OpticalCharacterRecognition"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=meliiwamd&repo=OpticalCharacterRecognition&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="OpticalCharacterRecognition"></a>
-  <a href="https://github.com/mhq-dev/mhq-web"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhq-dev&repo=mhq-web&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="mhq-web"></a>
-  <a href="https://github.com/twenty-three-nineteen/ttn-web"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twenty-three-nineteen&repo=ttn-web&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="ttn-web"></a>
-  <a href="https://github.com/AmirH-KHALI/leetcode"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=leetcode&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="leetcode"></a>
-  <a href="https://github.com/AmirH-KHALI/app-market"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=app-market&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="app-market"></a>
-  <a href="https://github.com/AmirH-KHALI/deep-learning-course-00011"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=deep-learning-course-00011&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="deep-learning-course-00011"></a>
+  <a href="https://github.com/meliiwamd/OpticalCharacterRecognition"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=meliiwamd&repo=OpticalCharacterRecognition&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="OpticalCharacterRecognition"></a>
+  <a href="https://github.com/mhq-dev/mhq-web"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhq-dev&repo=mhq-web&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="mhq-web"></a>
+  <a href="https://github.com/twenty-three-nineteen/ttn-web"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twenty-three-nineteen&repo=ttn-web&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="ttn-web"></a>
+  <a href="https://github.com/AmirH-KHALI/leetcode"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=leetcode&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="leetcode"></a>
+  <a href="https://github.com/AmirH-KHALI/app-market"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=app-market&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="app-market"></a>
+  <a href="https://github.com/AmirH-KHALI/deep-learning-course-00011"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmirH-KHALI&repo=deep-learning-course-00011&theme=react&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="deep-learning-course-00011"></a>
 </p>
 
 <p align="center">
@@ -29,16 +29,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="AmirH's streak" alt="AmirH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirH-KHALI&theme=monokai-metallian&hide_border=true" width="46.5%"/>
+    <img title="AmirH's streak" alt="AmirH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirH-KHALI&theme=monokai-metallian&hide_border=true" width="465"/>
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="AmirH's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AmirH-KHALI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="52.5%"/>
+    <img alt="AmirH's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AmirH-KHALI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="525"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="AmirH's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmirH-KHALI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="57.5%"/>
+    <img alt="AmirH's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmirH-KHALI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="575"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="AmirH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-KHALI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="41.5%"/>
+    <img alt="AmirH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-KHALI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="415"/>
   </a> 
 </p>
 
