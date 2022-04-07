@@ -42,39 +42,4 @@
   </a> 
 </p>
 
-<b>👨‍💻 Programming languages</b>
 
-<p>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>  
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-</p>
-
-<b>🧰 Frameworks and libraries</b>
-
-<p>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-000000.svg?logo=django&logoColor=white"></a>
-  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6aad3d.svg?logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-65b743.svg?logo=spring-boot&logoColor=white"></a>
-  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Celery" src="https://img.shields.io/badge/Celery-3f5c16.svg?logo=celery&logoColor=white"></a>
-</p>
-
-<b>🗄️ Others</b>
-
-<p>
-  <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-ffffff.svg?logoColor=black"></a>
-  <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2392e6.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  
-</p>
