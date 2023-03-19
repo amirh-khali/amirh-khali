@@ -29,16 +29,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="AmirH's streak" alt="AmirH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirH-KHALI&theme=monokai-metallian&hide_border=true" width="352.5"/>
+    <img title="AmirH's streak" alt="AmirH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirH-KHALI&theme=monokai-metallian&hide_border=true" width="354"/>
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="AmirH's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmirH-KHALI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="396.5"/>
+    <img alt="AmirH's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmirH-KHALI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="395"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="AmirH's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmirH-KHALI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="434.5"/>
+    <img alt="AmirH's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmirH-KHALI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="462"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="AmirH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-KHALI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="314.5"/>
+    <img alt="AmirH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-KHALI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="288"/>
   </a> 
 </p>
 
