@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+AmirHossein+Ahmadi!%F0%9F%A4%98%F0%9F%8F%BF" width="700"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Amirhossein+Ahmadi!%F0%9F%A4%98%F0%9F%8F%BF" width="700"></a>
 </p>
 
 <!-- Social icons section -->
